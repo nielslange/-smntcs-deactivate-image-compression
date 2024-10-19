@@ -6,7 +6,7 @@
  * Author:                Niels Lange
  * Author URI:            https://nielslange.de
  * Text Domain:           smntcs-deactivate-image-compression
- * Version:               1.8
+ * Version:               1.9
  * Requires PHP:          5.6
  * Requires at least:     2.5
  * License:               GPL v2 or later

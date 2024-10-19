@@ -24,40 +24,44 @@ You can find the plugin on https://wordpress.org/plugins/smntcs-deactivate-image
 
 ## Changelog
 
+### 1.9 (2024.10.19)
+
+-   Test up to WordPress 6.6
+
 ### 1.8 (2023.10.15)
 
-- Test up to WP 6.4
+-   Test up to WordPress 6.4
 
 ### 1.7 (2022.12.03)
 
-- Test up to WP 6.1
+-   Test up to WordPress 6.1
 
 ### 1.6 (2022.05.29)
 
-- Test up to WP 6.0
+-   Test up to WordPress 6.0
 
 ### 1.5 (2022.04.21)
 
-- Test up to WP 5.8
+-   Test up to WordPress 5.8
 
 ### 1.4 (2021.12.30)
 
-- Test up to WP 5.8
+-   Test up to WordPress 5.8
 
 ### 1.3 (2021.04.26)
 
-- [Add build tools](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/23)
-- [Replace Travis CI with GitHub Actions](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/25)
-- [Test up to WP 5.7](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/22)
+-   [Add build tools](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/23)
+-   [Replace Travis CI with GitHub Actions](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/25)
+-   [Test up to WordPress 5.7](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/22)
 
 ### 1.2 (2020.05.03)
 
-- [Test up to WP 5.4](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/7)
+-   [Test up to WordPress 5.4](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/7)
 
 ### 1.1 (2019.12.27)
 
-- [Test up to WP 5.3](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/4)
+-   [Test up to WordPress 5.3](https://github.com/nielslange/smntcs-deactivate-image-compression/issues/4)
 
 ### 1.0 (2019.07.10)
 
-- Initial release
+-   Initial release
